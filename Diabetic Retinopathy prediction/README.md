@@ -52,12 +52,5 @@ python cnn_predict.py \
    -t < select type of architecture >
 ```
 
-<br>
 
-### Author
-* **Filippo Arcadu** - July 2019
 
-<br>
-
-### Last Update
-29.07.2019
