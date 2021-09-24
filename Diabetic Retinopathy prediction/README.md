@@ -1,11 +1,5 @@
 # Deep learning algorithm predicts diabetic retinopathy progression in individual patients 
 
-<br>
-
-## Description
-This repository collect all the scripts used to re-create the field-specific convolutional neural networks (CNN) pillars presented in the manuscript: *F. Arcadu, F. Benmansour, A. Maunz, J. Willis, Z. Haskova, and M. Prunotto, "Deep learning algorithm predicts diabetic retinopathy progression in individual patients", Nature Digital Medicine, 2019*
-
-<br>
 
 ## Requirements
 
